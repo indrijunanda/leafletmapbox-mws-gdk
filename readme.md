@@ -2,17 +2,13 @@
 
 # Map Rumah Makan Termurah Di Tanjungpinang 
 
-### make with Leaflet.js 
+### using Leaflet.js 
 
 Mobile Web Specialist - Google Developer Kejar 2018
 
-Regional Batam
-
-by Inixindo
-
 -------------------
 
-**[DEMO](https://indrijunanda.github.io/leafletmapbox-mws-gdk/)**
+**[DEMO](https://indrijunanda.github.io/leafletmapbox-restaurant/)**
 
 -------------------
 
