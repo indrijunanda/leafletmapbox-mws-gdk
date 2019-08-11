@@ -10,6 +10,9 @@ Regional Batam
 
 by Inixindo
 
+-------------------
+
+**[DEMO](https://indrijunanda.github.io/leafletmapbox-mws-gdk/)**
 
 -------------------
 
